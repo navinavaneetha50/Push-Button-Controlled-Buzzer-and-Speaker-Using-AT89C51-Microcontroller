@@ -133,12 +133,19 @@ void main(void)
 | Released | LOW | LOW | OFF |
 | Pressed | HIGH | HIGH | ON |
 
+OUTPUT
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a83830e8-5a0f-49e9-98f1-f1fb08eae8fd" />
+
+
 ## Applications
 
 - Security alarm systems
 - Emergency warning systems
 - Doorbell circuits
 - Industrial fault indicators
+
+  RESULT
+  The push button was successfully interfaced with the AT89C51 microcontroller. The buzzer and speaker were activated when the push button was pressed and switched OFF when the button was released.
 - Vehicle alert systems
 - Patient assistance systems
 
